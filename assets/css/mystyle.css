@@ -1,0 +1,30 @@
+body {
+  background-color: #000;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+}
+
+.navbar-fija {
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+
+hr {
+  color: #0dcaf0;
+  opacity: 1;
+}
+
+.card {
+  border-color: #d3d4d4 ;
+}
+
+.alto-footer {
+  height: 50px;
+}
+
+.color-fabicon a {
+  color: #fff;
+}
